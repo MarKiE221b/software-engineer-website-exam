@@ -1,0 +1,15 @@
+.my-custom-font {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+.noWrap {
+    white-space: nowrap;
+}
+
+.buttonFb {
+    width: '100%';
+    padding: '12px';
+    font-size: '16px';
+    margin-top: '16px';
+}
